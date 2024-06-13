@@ -20,15 +20,15 @@ cd Bash-Check-ResponceTime
 ## Configure script:
 Edit the script (check_url_and_send_email.sh) and modify the following variables:
 
-sender: Your Gmail address.
+- sender: Your Gmail address.
 
-receiver: Email address where notifications will be sent.
+- receiver: Email address where notifications will be sent.
 
-gapp_password: Your Google App Password for SMTP authentication.
+- gapp_password: Your Google App Password for SMTP authentication.
 
-url: The URL of the website you want to monitor.
+- url: The URL of the website you want to monitor.
 
-threshold_ms: Threshold response time in milliseconds (default is 200ms).
+- threshold_ms: Threshold response time in milliseconds (default is 200ms).
 
 Save the changes after editing.
 
