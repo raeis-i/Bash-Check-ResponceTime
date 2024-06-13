@@ -34,5 +34,4 @@ bash check_url_and_send_email.sh
 ```
 
 ## Setup a cronjob:
-To schedule the script to run periodically, set up a [cron job](https://phoenixnap.com/kb/set-up-cron-job-linux)
- to run the script at your desired interval. 
+To schedule the script to run periodically, set up a [cron job](https://phoenixnap.com/kb/set-up-cron-job-linux) to run the script at your desired interval. 
